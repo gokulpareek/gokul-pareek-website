@@ -2,24 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle:
 
 profile:
   align: right
   image: IMG_1791.jpg
   image_cicular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hey there!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a fourth-year undergraduate student at the [University of Illinois Chicago](https://www.uic.edu), pursuing dual degrees in Biological Sciences with a double major in Psychology, and Mathematics and Computer Science. I am an undergraduate research assistant at the [Department of Biological Sciences](https://bios.uic.edu) where I use Zebrafish as a model organism to study the various cell mechanisms important for development.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Currently, I am working as a bioinformatics analyst-cum-researcher at the [Medical College of Wisconsin](https://www.mcw.edu) as part of their flagship [Summer Program for Undergraduate Research (SPUR)](https://www.mcw.edu/education/graduate-school/prospective-students/summer-program-for-undergraduate-research). 
+
+In my spare time, I enjoy playing badminton, travelling, reading non-fiction books, exploring Indian restaurants, and (sometimes) coding. I grew up in [New Delhi, India](https://en.wikipedia.org/wiki/New_Delhi), and moved to [Chicago, Illinois](https://en.wikipedia.org/wiki/Chicago) in August 2019. 
