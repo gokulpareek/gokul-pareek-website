@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hey there!
 
-I am a fourth-year undergraduate student at the [University of Illinois Chicago](https://www.uic.edu), pursuing dual degrees in Biological Sciences with a double major in Psychology, and Mathematics and Computer Science. I am an undergraduate research assistant at the [Department of Biological Sciences](https://bios.uic.edu) where I use Zebrafish as a model organism to study the various cell mechanisms important for development.
+I am a fourth-year undergraduate student at the [University of Illinois Chicago](https://www.uic.edu), triple majoring in Biological Sciences, Psychology, and Mathematics and Computer Science. I am an undergraduate research assistant at the [Department of Biological Sciences](https://bios.uic.edu) where I use Zebrafish as a model organism to study the various cell mechanisms important for development.
 
 Currently, I am working as a bioinformatics analyst-cum-researcher at the [Medical College of Wisconsin](https://www.mcw.edu) as part of their flagship [Summer Program for Undergraduate Research (SPUR)](https://www.mcw.edu/education/graduate-school/prospective-students/summer-program-for-undergraduate-research). 
 
